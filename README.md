@@ -20,17 +20,17 @@ La empresa más grande de administración de películas quiere llegar a su públ
 `script5.js` En este archivo se realizó el codigo para poder ver las url de peliculas y programas de TV.
 `script6.js` En este archivo se realizó el codigo para poder ver los datos de las películas como: título, id, imagen y año.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 HTML5
 CSS3
 JavaScript
 
-Instrucciones de uso:
+## Instrucciones de uso
 Clona el repositorio: Utiliza el comando "git clone" seguido de la URL del repositorio para clonar el proyecto en tu computadora local.
 
 Abre la carpeta del proyecto: Navega a la carpeta donde se clonó el proyecto y ábrela en tu editor de código favorito.
 
 Abre el archivo HTML: Busca el archivo HTML principal (usualmente "index.html") y ábrelo en tu navegador web.
 
-Créditos
+## Créditos
 Este examen filtro de JavaScript fue hecho por Valerie Lasso.
