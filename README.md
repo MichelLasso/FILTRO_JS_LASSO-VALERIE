@@ -1,8 +1,6 @@
-# FILTRO_JS_LASSO-VALERIE
+# Plataforma
 
-La empresa más grande de administración de películas quiere llegar a su público con una nueva plataforma, la cual permita buscar y visualizar las películas y series que el usuario necesite consultar a manera de vista de un panel tipo dashboard.
-
-En este repositorio podrás encontrar varios index.html y script.js que contienen el trabajo.
+La empresa más grande de administración de películas quiere llegar a su público con una nueva plataforma, la cual permita buscar y visualizar las películas y series que el usuario necesite consultar a manera de vista de un panel tipo dashboard. En este repositorio podrás encontrar varios index.html y script.js que contienen el trabajo.
 
 |Contenido de los index.html|
 |--|
@@ -22,4 +20,17 @@ En este repositorio podrás encontrar varios index.html y script.js que contiene
 `script5.js` En este archivo se realizó el codigo para poder ver las url de peliculas y programas de TV.
 `script6.js` En este archivo se realizó el codigo para poder ver los datos de las películas como: título, id, imagen y año.
 
-### Para clonar el repositorio debes copiar el enlace del repositorio del Github 
+Tecnologias utilizadas
+HTML5
+CSS3
+JavaScript
+
+Instrucciones de uso:
+Clona el repositorio: Utiliza el comando "git clone" seguido de la URL del repositorio para clonar el proyecto en tu computadora local.
+
+Abre la carpeta del proyecto: Navega a la carpeta donde se clonó el proyecto y ábrela en tu editor de código favorito.
+
+Abre el archivo HTML: Busca el archivo HTML principal (usualmente "index.html") y ábrelo en tu navegador web.
+
+Créditos
+Este examen filtro de JavaScript fue hecho por Valerie Lasso.
